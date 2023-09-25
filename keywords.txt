@@ -1,0 +1,20 @@
+Bot	KEYWORD1
+IR_izquierda	KEYWORD2
+IR_centro	KEYWORD2
+IR_derecha	KEYWORD2
+motor_derecha 	KEYWORD2
+motor_izquierda	KEYWORD2
+adelante	KEYWORD2
+atras	KEYWORD2
+girar_derecha	KEYWORD2
+girar_izquierda	KEYWORD2
+parar	KEYWORD2
+detectar_obstaculo	KEYWORD2
+pitar	KEYWORD2
+bluetooth	KEYWORD2
+servo  KEYWORD2
+inicio  KEYWORD2
+obstaculos  KEYWORD2
+seguidor  KEYWORD2
+
+
